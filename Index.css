@@ -1,0 +1,64 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  margin: auto;
+  text-align: center;
+}
+
+main{
+  margin: 0 auto 72px;
+  text-align: center;
+  width: 626px;
+}
+
+.mulherSegurandoMundo{
+  margin: 72px 0 72px 0 ;
+}
+
+h1{
+  color: #3F3D56;
+  font-family: 'Dosis', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 56px;
+}
+
+h1 span{
+  color: #EE24FF;
+}
+
+p{
+  color: #828282;
+  font-size: 15px;
+  line-height: 22px;
+  margin: 32px auto 0 auto;
+  text-align: justify;
+}
+
+p span{
+  color: #3F3D56;
+  font-weight: bold;
+}
+
+.line {
+  width: 568px;
+  height: 0px;
+  margin: 0 auto 8px;
+  border: 1px solid #ECEFF2;
+}
+
+a{
+  text-decoration: none;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+footer a + a {
+  margin-left: 28px;
+}
+
+.onda{
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
